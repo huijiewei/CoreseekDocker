@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/usr/local/coreseek/bin/indexer -c etc/coreseek/sphinx.conf --all
+/usr/local/coreseek/bin/indexer -c opt/coreseek/sphinx.conf --all

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/usr/local/coreseek/bin/searchd -c /etc/coreseek/sphinx.conf --nodetach "$@"
+/usr/local/coreseek/bin/searchd -c /opt/coreseek/sphinx.conf --nodetach "$@"
